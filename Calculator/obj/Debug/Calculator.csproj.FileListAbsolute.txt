@@ -1,0 +1,10 @@
+c:\users\hazker\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.dll
+c:\users\hazker\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Debug\Calculator.pdb
+c:\users\hazker\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.dll
+c:\users\hazker\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Calculator\bin\Debug\Calculator.dll
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Calculator\obj\Debug\Calculator.dll
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache

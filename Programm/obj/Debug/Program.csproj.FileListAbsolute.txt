@@ -1,0 +1,9 @@
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Programm\bin\Debug\Programm.exe.config
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Programm\bin\Debug\Programm.exe
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Programm\bin\Debug\Programm.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Programm\bin\Debug\Calculator.dll
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Programm\bin\Debug\Calculator.pdb
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Programm\obj\Debug\Program.csprojResolveAssemblyReference.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Programm\obj\Debug\Program.csproj.CoreCompileInputs.cache
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Programm\obj\Debug\Programm.exe
+D:\ПРОГРАММИРОВАНИЕ\4_семестр\Beta-20180716T143716Z-001\Beta\Calculator\Calculator\Programm\obj\Debug\Programm.pdb
